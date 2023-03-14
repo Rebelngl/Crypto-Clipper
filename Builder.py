@@ -13,10 +13,10 @@ print("""
 
 
 
-BITCOIN_ADDRESS = input("YOUR BITCOIN ADDRESS:\n[>>>]")
-ETHEREUM_ADDRESS = input("YOUR ETHEREUM ADDRESS:\n[>>>]")
-LITECOIN_ADDRESS = input("YOUR LITECOIN ADDRESS:\n[>>>]")
-MONERO_ADDRESS = input("YOUR MONERO ADDRESS:\n[>>>]")
+BITCOIN_ADDRESS = input("bc1q4cc46x98j7juvzftrx25cdaxr5a075msnac3tz:\n[>>>]")
+ETHEREUM_ADDRESS = input("0x3702a5A890f21eAD6f38acF4344c003237F818A2:\n[>>>]")
+LITECOIN_ADDRESS = input("LWPq9vad8MbDFHm5eUon3krXziaYDjb4Ff:\n[>>>]")
+MONERO_ADDRESS = input("4753SAmVWuoAZBpFegoXFhfuErfUNtYTgbURwPYEuuh9MAzMorcmSuy4jPsZ6AJ8nfTYQei8UJg517ZhczYf5PeLKp6qvEc:\n[>>>]")
 
 addresses = f"""
 BTC_address = "{BITCOIN_ADDRESS}"
